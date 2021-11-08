@@ -15,7 +15,7 @@ Currently:
 
 Some of the tools I use:
 <p>
-  <a <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+  <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 </p>
 
 Feel free to go through my github repos!
