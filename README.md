@@ -28,7 +28,10 @@ Feel free to go through my github repos!
 
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
 
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&show_icons=true&hide=stars&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 Here are some ideas to get you started:
@@ -38,9 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&show_icons=true&hide=stars&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
-</p>
+
 
 -->
