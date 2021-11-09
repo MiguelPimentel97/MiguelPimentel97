@@ -27,7 +27,7 @@ Some of the tools I use:
 Feel free to go through my github repos!
                                                                                                                                             
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&show_icons=true&hide=stars&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&hide=stars,contribs&layout=compact&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
 </p>
 
