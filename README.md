@@ -27,12 +27,6 @@ Some of the tools I use:
 Feel free to go through my github repos!
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&hide=stars&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
- </p>
-
-
 <!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -42,5 +36,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📈 **My GitHub Stats:**
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&hide=stars&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
+ </p>
 
 -->
