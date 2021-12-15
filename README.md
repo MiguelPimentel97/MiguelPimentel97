@@ -22,6 +22,7 @@ Some of the tools I use:
   <a target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a target="_blank"><img alt="Matlab" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=matlab&logoColor=white" /></a>
 </p>
                                                                                                                                               
 Feel free to go through my github repos!
