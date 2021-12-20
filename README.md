@@ -24,6 +24,13 @@ Some of the tools I use:
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a target="_blank"><img alt="ex" src="https://img.shields.io/badge/C++-36403E.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 </p>
+                                                                                                                                        
+<p>
+  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-36403E?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-36403E?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-36403E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1-KiWV-9c0XXUGnQySlOCfMmPBBUTqHCR/view?usp=sharing" target=_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-lightgrey?&style=for-the-badge" /></a> 
+</p>
                                                                                                                                               
 Feel free to go through my github repos!
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
