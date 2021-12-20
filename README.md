@@ -26,9 +26,9 @@ Some of the tools I use:
 </p>
                                                                                                                                         
 <p>
-  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-36403E?style=for-the-badge&logo=github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-36403E?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-36403E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-738C86?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-738C86?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-738C86?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1-KiWV-9c0XXUGnQySlOCfMmPBBUTqHCR/view?usp=sharing" target=_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-lightgrey?&style=for-the-badge" /></a> 
 </p>
                                                                                                                                               
