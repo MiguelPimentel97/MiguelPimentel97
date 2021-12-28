@@ -6,7 +6,9 @@
   <a href="https://drive.google.com/file/d/1-KiWV-9c0XXUGnQySlOCfMmPBBUTqHCR/view?usp=sharing" target=_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-lightgrey?&style=for-the-badge" /></a> 
 </p>
 
-I am an Engineer from beautiful Lisbon, Portugal, passionate about tech and dedicated in finding ways to make technology more sustainable. I recently graduated as an Aerospace Engineer from [Tecnico Lisboa](https://tecnico.ulisboa.pt/en/) but my skills range from Data Science & Development to Energies and Robotics. I specialize in turning knowledge into code and data into information, looking at problems from a top-down approach and diving into new subjects quickly. 
+I'm a dynamic and ambitious Engineer from beautiful Lisbon, Portugal, dedicated to finding ways to make technology more sustainable. Developing solutions to scale the deployment of Renewable Energies has been my focus and my drive for the past years.
+
+I recently graduated as an Aerospace Engineer from [Tecnico Lisboa](https://tecnico.ulisboa.pt/en/) but my skills range from Data Science & Development to Energies and Robotics. I specialize in turning knowledge into code and data into information, looking at problems from a top-down approach and diving into new subjects quickly. 
 
 Currently:
 - 🔭 I’m working on developing tools to assess the techno-economic feasibility of renewable energy plants (among other projects);
@@ -23,14 +25,7 @@ Some of the tools I use:
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a target="_blank"><img alt="ex" src="https://img.shields.io/badge/C++-36403E.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-</p>
-                                                                                                                                        
-<p>
-  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-738C86?style=for-the-badge&logo=github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-738C86?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-738C86?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1-KiWV-9c0XXUGnQySlOCfMmPBBUTqHCR/view?usp=sharing" target=_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-lightgrey?&style=for-the-badge" /></a> 
-</p>
+</p>                                                                                                                                   
                                                                                                                                               
 Feel free to go through my github repos!
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
@@ -48,5 +43,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPimentel97&hide=stars&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPimentel97&count_private=true&include_all_commits=true&show_icons=true&layout=compact&langs_count=8"/>
  </p>
+ 
+ <p>
+  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-738C86?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-738C86?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-738C86?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1-KiWV-9c0XXUGnQySlOCfMmPBBUTqHCR/view?usp=sharing" target=_blank"><img alt="Resume" src="https://img.shields.io/badge/-Resume-lightgrey?&style=for-the-badge" /></a> 
+</p>
 
 -->
