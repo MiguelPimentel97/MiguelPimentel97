@@ -24,6 +24,7 @@ Some of the tools I use:
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a target="_blank"><img alt="ex" src="https://img.shields.io/badge/C++-36403E.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+  <a target="_blank"><img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
 </p>                                                                                                                                   
                                                                                                                                               
 Feel free to go through my github repos!
