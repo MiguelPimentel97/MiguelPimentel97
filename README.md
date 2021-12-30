@@ -33,12 +33,6 @@ Some of the tools I use:
 Feel free to go through my github repos!
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
 
-<p>
-  <a href="https://github.com/MiguelPimentel97" target="_blank"><img alt="Github" src="https://img.shields.io/badge/MiguelPimentel97-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/miguelvpimentel" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/miguelvpimentel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="mailto:miguelvpimentel97@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/miguelvpimentel97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <!--
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
