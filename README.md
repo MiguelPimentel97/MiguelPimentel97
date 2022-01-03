@@ -14,7 +14,7 @@ I recently graduated as an Aerospace Engineer from [Tecnico Lisboa](https://tecn
 Currently:
 - 🔭 I’m working on developing tools to assess the techno-economic feasibility of renewable energy plants (among other projects);
 - 🌱 I’m learning about Cloud Development (Node.js and React);
-- 💬 Languages I know or I'm learning about:
+- 💬 Languages, Frameworks, Platforms and Libraries I use or I'm currently practicing:
 <p>
   <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                             <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
@@ -22,9 +22,6 @@ Currently:
   <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
   <a target="_blank"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>
   <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-</p>  
-- ⚡ Frameworks, Platforms and Libraries  I use or I'm currently practicing:
-<p>
   <a target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
