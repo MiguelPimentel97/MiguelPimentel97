@@ -16,18 +16,23 @@ Currently:
 - 🌱 I’m learning about Cloud Development (Node.js and React);
 - 📫 How to reach me: miguelvpimentel97@gmail.com
 
-Some of the tools I use:
+Languages I know or I'm currently learning:
 <p>
   <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                           <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
-  <a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>           <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a> 
+  <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                             <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
+  <a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>             <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a> 
   <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+</p>  
+ 
+<p>
   <a target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
   <a target="_blank"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a target="_blank"><img alt="ex" src="https://img.shields.io/badge/C++-36403E.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
   <a target="_blank"><img alt="Office" src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
-</p>                                                                                                                                   
+</p>   
+                                                                                                                    
                                                                                                                                               
 Feel free to go through my github repos!
 ### You are one of the ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiguelPimentel97)
