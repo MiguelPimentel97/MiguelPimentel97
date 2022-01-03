@@ -14,9 +14,7 @@ I recently graduated as an Aerospace Engineer from [Tecnico Lisboa](https://tecn
 Currently:
 - 🔭 I’m working on developing tools to assess the techno-economic feasibility of renewable energy plants (among other projects);
 - 🌱 I’m learning about Cloud Development (Node.js and React);
-- 📫 How to reach me: miguelvpimentel97@gmail.com
-
-Languages I know or I'm learning about:
+- 💬 Languages I know or I'm learning about:
 <p>
   <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                             <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
@@ -25,7 +23,7 @@ Languages I know or I'm learning about:
   <a target="_blank"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>
   <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 </p>  
-Frameworks, Platforms and Libraries  I use or I'm currently practicing:
+- ⚡ Frameworks, Platforms and Libraries  I use or I'm currently practicing:
 <p>
   <a target="_blank"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
@@ -45,9 +43,9 @@ Feel free to go through my github repos!
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 - 📈 **My GitHub Stats:**
 
 <p>
