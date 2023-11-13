@@ -7,13 +7,11 @@
   <a href="https://read.cv/miguelpimentel" target=_blank"><img alt="CV" src="https://img.shields.io/badge/-CV-lightgrey?&style=for-the-badge" /></a>
 </p>
 
-I'm a dynamic and ambitious Engineer from beautiful Lisbon, Portugal, dedicated to finding ways to make technology more sustainable. Developing solutions to scale the deployment of Renewable Energies has been my focus and my drive for the past years.
-
-I recently graduated as an Aerospace Engineer from [Tecnico Lisboa](https://tecnico.ulisboa.pt/en/) but my skills range from Data Science & Development to Energies and Robotics. I specialize in turning knowledge into code and data into information, looking at problems from a top-down approach and diving into new subjects quickly. 
+Hi! I'm a dynamic and ambitious Engineer, dedicated in finding ways to make technology more sustainable. Developing solutions to scale the deployment of Renewable Energies has been my focus and my drive for the past years. My ambition is to contribute to the Energy Transition from a data-centric point of view. My skills range from Data Science & Development to Energies and Sustainability. I specialize in turning knowledge into code and data into information, looking at problems from a top-down approach and diving into new subjects quickly. 
 
 Currently:
-- 🔭 I’m working on developing tools to assess the techno-economic feasibility of renewable energy plants (among other projects);
-- 🌱 I’m learning about Cloud Development (Node.js and React);
+- 🔭 I’m leading the development of the Decarbonization Business Optimizer (DBO). You can learn more about it <a target=here href="https://www.siemens.com/us/en/company/press/siemens-stories/usa/decarbonization-business-optimizer-green-power-siemens.html"/></a>;
+- 🌱 I’m preparing for taking the AWS Certified Developer - Associate Exam;
 - 💬 Languages, Frameworks, Platforms and Libraries I use or I'm currently practicing:
 <p>
   <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
