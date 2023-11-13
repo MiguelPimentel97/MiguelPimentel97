@@ -15,6 +15,7 @@ Currently:
 - 💬 Languages, Frameworks, Platforms and Libraries I use or I'm currently practicing:
 <p>
   <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>                             <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></a>                       
   <a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>             <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a> 
   <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
