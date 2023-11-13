@@ -10,7 +10,7 @@
 Hi! I'm a dynamic and ambitious Engineer, dedicated in finding ways to make technology more sustainable. Developing solutions to scale the deployment of Renewable Energies has been my focus and my drive for the past years. My ambition is to contribute to the Energy Transition from a data-centric point of view. My skills range from Data Science & Development to Energies and Sustainability. I specialize in turning knowledge into code and data into information, looking at problems from a top-down approach and diving into new subjects quickly. 
 
 Currently:
-- 🔭 I’m leading the development of the Decarbonization Business Optimizer (DBO). You can learn more about it <a target=here href="https://www.siemens.com/us/en/company/press/siemens-stories/usa/decarbonization-business-optimizer-green-power-siemens.html"/></a>;
+- 🔭 I’m leading the development of the Decarbonization Business Optimizer (DBO). You can learn more about it [here](https://www.siemens.com/us/en/company/press/siemens-stories/usa/decarbonization-business-optimizer-green-power-siemens.html);
 - 🌱 I’m preparing for taking the AWS Certified Developer - Associate Exam;
 - 💬 Languages, Frameworks, Platforms and Libraries I use or I'm currently practicing:
 <p>
